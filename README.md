@@ -3,6 +3,7 @@
 Este proyecto muestra tres versiones diferentes de una interfaz de login desarrollada con Java Swing. La idea es demostrar cómo, a partir de un mismo concepto, se pueden implementar variaciones que van desde lo más clásico hasta lo más creativo e interactivo.
 
 🌟 Versiones incluidas
+
 │   Clásica         │ → Login simple con usuario, contraseña y botón de acceso.  
 │   Extendida       │ → Incluye selector de idioma y opción de recordar usuario.  
 │   Creativa        │ → Sistema con pestañas (Login / Registro), barra de progreso y spinner de edad.  
@@ -45,16 +46,21 @@ Casillas de verificación y radio buttons: se hicieron transparentes (setOpaque(
 Botones: etiquetas claras como “Acceder” o “Registrarse”. En la versión creativa se añade una animación con la barra de progreso.
 
 📂 Estructura del proyecto
+
 DII_T1/
 TareaEvaluacion1_Clasica.java 
+
 TareaEvaluacion1_Extendida.java
+
 TareaEvaluacion1_Creativa.java
+
 README.md
 
 🚀 Cómo ejecutar
 Para compilar y ejecutar cualquiera de las versiones:
 
 javac DII_T1/TareaEvaluacion1_Clasica.java
+
 java DII_T1.TareaEvaluacion1_Clasica
 
 (Sustituir por Extendida o Creativa según la versión que se quiera abrir).

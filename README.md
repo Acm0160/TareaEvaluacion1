@@ -3,6 +3,7 @@
 Este proyecto muestra tres versiones diferentes de una interfaz de login desarrollada con Java Swing. La idea es demostrar cómo, a partir de un mismo concepto, se pueden implementar variaciones que van desde lo más clásico hasta lo más creativo e interactivo.
 
 🌟 Versiones incluidas
+
 ┌───────────────────┐
 │   Clásica         │ → Login simple con usuario, contraseña y botón de acceso.  
 ├───────────────────┤
